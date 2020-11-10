@@ -1,1 +1,1 @@
-docker pull nginx
+FROM nginx:latest
